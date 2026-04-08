@@ -27,9 +27,9 @@ typedef uint8_t OpCode;
 #define OP_UTP_TRANS         0x30
 
 #define OP_PULSE_EMIT        0x40
-#define OP_SYS_BIOMETRICS    0x45
+#define OP_SYS_BIOMETRICS    0x50  /* [SYNCHRONIZED] */
 
-#define OP_FEEL_STATE        0x50
+#define OP_FEEL_STATE        0x45  /* [SYNCHRONIZED] */
 #define OP_INSTINCT_TRIGGER  0x60
 #define OP_REFLEX_ACTION     0x65
 #define OP_INTUITION_PREDICT 0x70
@@ -51,6 +51,6 @@ typedef uint8_t OpCode;
 #define OP_PURITY_VERIFY     0xFF
 #define OP_SYS_CHAOS         0xCC
 
-#define OP_HALT              0x99
+#define OP_HALT              0x00  /* [SYNCHRONIZED] */
 
 #endif /* OPCODE_H */
