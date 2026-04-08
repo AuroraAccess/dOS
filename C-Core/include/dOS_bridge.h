@@ -14,6 +14,7 @@
 void dos_trigger_intent(uint8_t opcode, const void* payload, size_t size);
 
 static inline void dos_sync_biometrics(uint32_t bpm, uint32_t oxygen) {
+    (void)oxygen; // Предотвращаем ворнинг компилятора
     dos_trigger_intent(0x50, &bpm, sizeof(bpm));
 }
 
