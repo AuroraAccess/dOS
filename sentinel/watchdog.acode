@@ -1,0 +1,6 @@
+[
+    {"op": 1, "data": "watchdog"},
+    {"op": 96, "data": {"type": "defense", "condition": "high_anxiety", "timestamp": 0}},
+    {"op": 255, "data": {}},
+    {"op": 153, "data": null}
+]

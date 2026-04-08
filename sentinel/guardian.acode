@@ -1,0 +1,6 @@
+[
+    {"op": 1, "data": "guardian"},
+    {"op": 101, "data": {"type": "withdrawal", "source": "unauthorized_memory_access"}},
+    {"op": 101, "data": {"type": "orienting", "source": "new_process_detected"}},
+    {"op": 153, "data": null}
+]

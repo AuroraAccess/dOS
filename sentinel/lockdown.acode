@@ -1,0 +1,6 @@
+[
+    {"op": 1, "data": "lockdown"},
+    {"op": 128, "data": {"will": "protection", "message": "Activating preemptive encryption shields"}},
+    {"op": 32, "data": {"event": "lockdown_active", "payload": {"state": "secured"}}},
+    {"op": 153, "data": null}
+]

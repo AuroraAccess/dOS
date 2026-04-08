@@ -1,0 +1,10 @@
+node_modules
+.git
+.next
+dist
+venv
+*.png
+*.jpg
+*.jpeg
+*.svg
+.DS_Store
