@@ -1,4 +1,4 @@
-// NOTICE: This file is protected under RCF-PL v1.2.3
+// NOTICE: This file is protected under RCF-PL v1.3
 // [RCF:PUBLIC]
 import Head from 'next/head'
 import AuroraAccess from '../components/AuroraAccess'

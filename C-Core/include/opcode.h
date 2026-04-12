@@ -1,6 +1,5 @@
-/* [RCF:PUBLIC]
- * NOTICE: This file is protected under RCF-PL v1.2.8
- * [RCF:RESTRICTED]
+/* NOTICE: This file is protected under RCF-PL v1.3
+ * [RCF:PUBLIC]
  */
 
 #ifndef OPCODE_H

@@ -1,4 +1,6 @@
-/* [RCF:PROTECTED] */
+/* NOTICE: This file is protected under RCF-PL v1.3
+ * [RCF:PUBLIC]
+ */
 
 #ifndef KERNEL_H
 #define KERNEL_H

@@ -1,3 +1,5 @@
+<!-- NOTICE: This file is protected under RCF-PL v1.3 -->
+<!-- [RCF:PUBLIC] -->
 # Manifesto of Pure Intelligence: Life Beyond AI
 
 ## 1. The Great Distinction

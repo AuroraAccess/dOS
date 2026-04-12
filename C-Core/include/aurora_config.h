@@ -1,4 +1,6 @@
-/*
+/* NOTICE: This file is protected under RCF-PL v1.3
+ * [RCF:PUBLIC]
+ *
  * AURORA CORE CONFIGURATION
  * Part of the Aurora Access dOS Ecosystem
  * Strategy: Modular Matrix (Phase 18)

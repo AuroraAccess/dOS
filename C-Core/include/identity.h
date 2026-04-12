@@ -1,4 +1,6 @@
-/* [RCF:PROTECTED] */
+/* NOTICE: This file is protected under RCF-PL v1.3
+ * [RCF:PUBLIC]
+ */
 
 #ifndef IDENTITY_H
 #define IDENTITY_H

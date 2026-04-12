@@ -1,4 +1,4 @@
-# NOTICE: This file is protected under RCF-PL v1.2.6
+# NOTICE: This file is protected under RCF-PL v1.3
 # [RCF:PROTECTED]
 import asyncio
 import json

@@ -1,3 +1,6 @@
+# NOTICE: This file is protected under RCF-PL v1.3
+# [RCF:PUBLIC]
+#
 # AURORA CORE MAKEFILE
 # Strategy: Unified C-Core (Phase 18)
 

@@ -1,5 +1,5 @@
-<!-- NOTICE: This file is protected under RCF-PL v1.2.3 -->
-<!-- [RCF:PUBLIC] -->
+<!-- NOTICE: This file is protected under RCF-PL v1.3 -->
+<!-- [RCF:PROTECTED] -->
 # Aurora Access: Architecture of a Sovereign C-Core dOS
 
 ## Overview

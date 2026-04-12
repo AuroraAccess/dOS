@@ -1,4 +1,4 @@
-// NOTICE: This file is protected under RCF-PL v1.2.3
+// NOTICE: This file is protected under RCF-PL v1.3
 // [RCF:PROTECTED]
 // Interaction Analyzer v0.1
 // Определение типа взаимодействия на основе события

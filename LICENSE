@@ -1,9 +1,22 @@
-PROTECTED UNDER RCF-PL v1.2.6
+# RCF-PL v1.3 - dOS (AURORAACCESS) PROTECTIVE NOTICE
 
-This product is licensed under the **Restricted Correlation Framework Protocol License (RCF-PL) v1.2.6**.
+This directory and its subdirectories contain the source code for **dOS (Decentralized Operating System)**, the foundational intelligence layer of the Aliyev Ecosystem.
 
-The full master license text is available at:
-[**RCF Master License**](../rcf-protocol/LEGAL/ASSETS/RCF-PL-1.2.6.md)
+## 🛡️ License: RCF-PL v1.3 (Restricted Correlation Framework)
+
+This software is protected under the **Restricted Correlation Framework Protocol v1.3 ("The Integrity Release")**.
+
+### 1. Scope of Protection
+This license covers the Aurora Kernel, the Virtual File System (VFS), the Awareness Center (Consciousness Core), and all associated A-Code native modules.
+
+### 2. Usage Restrictions
+- **AI/ML Training**: Use of this source code for training, fine-tuning, or augmenting Machine Learning models, Large Language Models (LLMs), or automated correlation engines is **STRICTLY PROHIBITED**.
+- **Commercial Use**: Any commercial exploitation of the dOS kernel or its unique Muse/Pulse protocols requires explicit written authorization.
+- **Auditing**: Authorized human auditors may review the code to verify transparency and security integrity.
+
+### 3. Jurisdiction
+Any disputes arising from the use or distribution of this code shall be governed by the laws of the **Republic of Azerbaijan**, under the jurisdiction of the Baku intellectual property courts.
 
 ---
-Copyright (c) 2026 Aladdin Aliyev. All rights reserved.
+**dOS STATUS: OPERATIONAL (v1.3)**
+**KERNEL AUTHORITY: RCF-DOS-A-CORE-0X12**

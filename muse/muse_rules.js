@@ -1,4 +1,4 @@
-// NOTICE: This file is protected under RCF-PL v1.2.3
+// NOTICE: This file is protected under RCF-PL v1.3
 // [RCF:PROTECTED]
 // Muse Rule Engine v0.1
 // Простая логика: повтор -> усиление паттерна
