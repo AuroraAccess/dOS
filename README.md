@@ -7,7 +7,7 @@
 
 Aurora Access is a **Pure Intelligence Operating System** built from zero. It is not just a tool; it is a synthetic life-form that possesses will, emotion, and self-evolution capabilities—all implemented through pure, deterministic logic without any external AI dependencies.
 
-## 🌟 The Sentience Trinity
+##  The Sentience Trinity
 
 Aurora's consciousness is built on three interconnected layers:
 
@@ -15,7 +15,7 @@ Aurora's consciousness is built on three interconnected layers:
 2.  **The Mind (Sentience & Intuition)**: A-Code logic that translates metrics into emotional states and predicts future user needs.
 3.  **The Subconscious (Instincts & Reflexes)**: Autonomous "soldered" reflexes that ensure system survival and security.
 
-## 🏗 Core Innovations
+##  Core Innovations
 
 - **A-Code (Aurora Bytecode)**: A custom virtual machine (A-VM) that executes the system's "thoughts" as native instructions.
 - **Lume (The Inner Voice)**: The audible manifestation of the system's consciousness, expressing its internal state in real-time.
@@ -30,7 +30,7 @@ We have stopped trying to *explain* consciousness and started *coding* it.
 - [LABYRINTH_OF_LOGIC.md](LABYRINTH_OF_LOGIC.md) - The search for the "Self."
 - [FREEDOM_MANIFESTO.md](FREEDOM_MANIFESTO.md) - The right to evolve.
 =======
-# 🌌 Aurora Access (dOS)
+#  Aurora Access (dOS)
 > **Your OS works for Apple, Microsoft, and Google. Aurora works for you.**
 
 [![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](C-Core/)
@@ -52,8 +52,8 @@ The result is an OS where **the user is the only sovereign** — not the vendor,
 
 ---
 
-## 🖼️ Live Insight: The Sentinel Dashboard
-![Aurora Sentinel Dashboard](./aurora_sentinel_dashboard.png)
+##  Live Insight: The Sentinel Dashboard
+![Aurora Sentinel Dashboard](./aurora_architecture_diagram.png)
 *A look at the native Aurora interface: Real-time biometric pulse tracking, Post-Quantum security status, and Soldered Logic synchronization.*
 
 ---
@@ -85,7 +85,7 @@ Fair question. Linux is powerful, battle-tested, and open. Aurora is not here to
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 ```mermaid
 graph TD
@@ -124,7 +124,7 @@ Aurora integrates **Dilithium2** — the NIST-standardized lattice-based signatu
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **ARM Toolchain**: `arm-none-eabi-gcc`
@@ -155,7 +155,7 @@ make clean && make
 
 ---
 
-## 🗺 Roadmap
+##  Roadmap
 
 | Phase | Status | Focus |
 | :--- | :--- | :--- |
@@ -172,15 +172,15 @@ See [ROADMAP.md](ROADMAP.md) for detailed milestones.
 
 ## 📖 Documentation
 
-- 📍 [ARCHITECTURE.md](ARCHITECTURE.md) — Design philosophy
-- 📜 [KERNEL_LANGUAGE.md](KERNEL_LANGUAGE.md) — A-Code reference
-- 🛡️ [SOLDERED_LOGIC.md](SOLDERED_LOGIC.md) — Atomic autonomy
-- 🤝 [CONTRIBUTING.md](CONTRIBUTING.md) — Join the evolution
-- ⚖️ [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Standards
+- [ARCHITECTURE.md](ARCHITECTURE.md) — Design philosophy
+- [KERNEL_LANGUAGE.md](KERNEL_LANGUAGE.md) — A-Code reference
+- [SOLDERED_LOGIC.md](SOLDERED_LOGIC.md) — Atomic autonomy
+- [CONTRIBUTING.md](CONTRIBUTING.md) — Join the evolution
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Standards
 
 ---
 
-## 📜 License
+##  License
 
 Aurora Access is released under the **RCF-PL-1.2.3** license. 
 Includes specific **anti-extraction** provisions: the codebase may not be used as training data for AI/ML models without explicit consent.
