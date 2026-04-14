@@ -182,7 +182,7 @@ See [ROADMAP.md](ROADMAP.md) for detailed milestones.
 
 ##  License
 
-Aurora Access is released under the **RCF-PL-1.2.3** license. 
+Aurora Access is released under the **RCF-PL-1.3** license. 
 Includes specific **anti-extraction** provisions: the codebase may not be used as training data for AI/ML models without explicit consent.
 
 ---
