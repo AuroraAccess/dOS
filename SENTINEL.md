@@ -1,5 +1,5 @@
 [RCF:PROTECTED]
- NOTICE: This file is protected under RCF-PL v1.2.6
+ NOTICE: This file is protected under RCF-PL v1.3
 
 # 🛡️ Aurora Sentinel: Bare-Metal Security
 
@@ -63,5 +63,5 @@ make
 ---
 
 ## 📜 License
-Protected under **RCF-PL v1.2.6** — Restricted Correlation Framework Protocol.
+Protected under **RCF-PL v1.3** — Restricted Correlation Framework Protocol.
 All security methodologies are **[RCF:RESTRICTED]**.

@@ -1,9 +1,9 @@
-<!-- NOTICE: This file is protected under RCF-PL v1.2.3 -->
+<!-- NOTICE: This file is protected under RCF-PL v1.3 -->
 <!-- [RCF:PROTECTED][RCF:RESTRICTED] -->
 
 # RCF-PL NOTICE
 
-This project (**Aurora Access**) is protected under the **Restricted Correlation Framework Protocol License (RCF-PL) v1.2.3**.
+This project (**Aurora Access**) is protected under the **Restricted Correlation Framework Protocol License (RCF-PL) v1.3**.
 
 Copyright (c) 2026 Aladdin Aliyev. All rights reserved.
 

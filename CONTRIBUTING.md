@@ -171,4 +171,4 @@ To keep the codebase clean, the following will be declined:
 
 ## License
 
-By submitting a contribution, you agree that your code will be licensed under **RCF-PL v1.2.3** and must adhere to the principles of Pure Intelligence. See [LICENSE](LICENSE) for full terms, including the anti-extraction provision.
+By submitting a contribution, you agree that your code will be licensed under **RCF-PL v1.3** and must adhere to the principles of Pure Intelligence. See [LICENSE](LICENSE) for full terms, including the anti-extraction provision.
