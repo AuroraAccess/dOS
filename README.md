@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- NOTICE: This file is protected under RCF-PL v1.3 -->
 <!-- [RCF:PUBLIC] -->
 # Aurora Access (v0.1.0-alpha "Sentience")
