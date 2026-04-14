@@ -53,7 +53,7 @@ The result is an OS where **the user is the only sovereign** — not the vendor,
 ---
 
 ## 🖼️ Live Insight: The Sentinel Dashboard
-![Aurora Sentinel Dashboard](./aurora_sentinel_dashboard_1776173182636.png)
+![Aurora Sentinel Dashboard](./aurora_sentinel_dashboard.png)
 *A look at the native Aurora interface: Real-time biometric pulse tracking, Post-Quantum security status, and Soldered Logic synchronization.*
 
 ---
