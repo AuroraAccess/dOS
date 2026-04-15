@@ -34,10 +34,9 @@ We have stopped trying to *explain* consciousness and started *coding* it.
 
 [![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](C-Core/)
 [![RCF](https://img.shields.io/badge/RCF-v1.3.0-blueviolet?style=for-the-badge)](ARCHITECTURE.md)
-[![License](https://img.shields.io/badge/License-RCF--PL--1.2.3-gold?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-RCF--PL--1.3-gold?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-ARM64%20%7C%20Cortex--M4-blue?style=for-the-badge)](C-Core/include/aurora_config.h)
 [![Phase](https://img.shields.io/badge/Roadmap-Phase%2018-orange?style=for-the-badge)](ROADMAP.md)
->>>>>>> de4783e (docs: add project documentation including contribution guidelines, roadmap, and code of conduct)
 
 ---
 
